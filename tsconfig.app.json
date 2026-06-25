@@ -22,9 +22,5 @@
       "@/*": ["src/*"]
     }
   },
-<<<<<<< HEAD
-  "include": ["src"]
-=======
   "include": ["."]
->>>>>>> ec076c4e235e8d7aeed6ac2da33ff8abce0ce2a5
 }
